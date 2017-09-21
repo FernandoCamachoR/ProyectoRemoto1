@@ -362,7 +362,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\caches\Documents\GitHub\ProyectoRemoto1\ProyectoRemot
+  m_LastProjectPath: C:\Users\fecaro\Documents\GitHub\ProyectoRemoto1\ProyectoRemot
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -512,8 +512,8 @@ MonoBehaviour:
     height: 542
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1efbffff
-    m_LastClickedID: -1250
+    m_SelectedIDs: 
+    m_LastClickedID: 0
     m_ExpandedIDs: d6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
